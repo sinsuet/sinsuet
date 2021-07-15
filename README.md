@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sinsuet
-- I graduate from ShanTou University
+- I graduate from SHANTOU University
 - 🌱 I’m currently learn nndl.
 
 <!---
