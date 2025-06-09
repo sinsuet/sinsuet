@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sinsuet
-- I graduate from SHANTOU University
-- 🌱 I’m currently learn nndl.
+- I am curently presuing a master degree in Shanghai Tech University
 
 <!---
 sinsuet/sinsuet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
