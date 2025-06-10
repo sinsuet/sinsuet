@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sinsuet
-- I am curently presuing a master degree in Shanghai Tech University
+- I am curently pursuing a master degree in Shanghai Tech University
 
 <!---
 sinsuet/sinsuet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
